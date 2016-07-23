@@ -1,0 +1,48 @@
+body {
+
+}
+
+h1 {
+	font-size: 70px;
+	text-align: center;
+	color: #1951b0;
+	margin-right: 70px;
+}
+
+.container {
+	width: 1600px;
+	background-color: #000000;
+}
+
+#quiz-area {
+	background-color: #000000;
+	color: #ffffff;
+}
+
+#buttonDiv {
+	background-color: #000000;
+}
+
+#subwrapper {
+	background-color: #000000;
+}
+#cf {
+	position:relative;
+  height:873px;
+  width:1440px;
+  margin:0 auto;
+}
+
+#cf img {
+	position:absolute;
+  left:0;
+  -webkit-transition: opacity 1s ease-in-out;
+  -moz-transition: opacity 1s ease-in-out;
+  -o-transition: opacity 1s ease-in-out;
+  transition: opacity 1s ease-in-out;
+}
+
+#cf  img.top:hover {
+	opacity: 0;
+}
+
